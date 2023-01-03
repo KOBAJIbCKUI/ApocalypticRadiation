@@ -1,4 +1,4 @@
-package KOBAJIbCKUI.ApocalypticRadiation;
+package KOBAJIbCKUI.ApocalypticRadiation.meta;
 
 import cpw.mods.fml.common.ModMetadata;
 
