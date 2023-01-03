@@ -1,4 +1,4 @@
-package KOBAJIbCKUI.ApocalypticRadiation.common;
+package KOBAJIbCKUI.ApocalypticRadiation.common.items;
 
 import KOBAJIbCKUI.ApocalypticRadiation.meta.MetaData;
 import net.minecraft.item.Item;
